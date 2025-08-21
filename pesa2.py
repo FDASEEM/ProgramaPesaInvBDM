@@ -122,7 +122,7 @@ class ModernPesaUSBMonitor:
         header_frame.pack_propagate(False)
         
         title_label = tk.Label(header_frame, 
-                              text="🔗 Monitor de Pesa USB", 
+                              text="🔗 Monitor de Pesa BDM", 
                               bg='#34495e', 
                               fg='#ecf0f1',
                               font=('Segoe UI', 18, 'bold'))
